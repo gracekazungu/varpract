@@ -64,7 +64,7 @@ val y=findCommnElements(array3 =arrayOf(1, 2, 3, 4, 5), array4 = arrayOf(3, 4, 5
     println(y.contentToString()) // prints "[3, 4, 5]"
 
 
-    val x=findCommonElements(array1 = arrayOf(23,45,56,78,90),
+    val x=findCommonElements(array1 = arrayOf(2,92,80,45,56,78,90),
         array2 = arrayOf(23,56,90,42,43))
    println(x.contentToString())
 
